@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.example.jajal">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+
+    <application
+            android:allowBackup="true"
+            android:icon="@mipmap/ic_launcher"
+            android:label="@string/app_name"
+            android:roundIcon="@mipmap/ic_launcher_round"
+            android:supportsRtl="true"
+            android:theme="@style/AppTheme">
+        <activity android:name=".Fragment.Lainnya.Lembaga.DetailLembaga"
+                  android:configChanges="orientation"
+                  android:label="@string/title_lembaga"
+                  android:screenOrientation="portrait">
+        </activity>
+        <activity android:name=".Layanan.DetailLayanan"
+                  android:configChanges="orientation"
+                  android:label="@string/title_layanan"
+                  android:screenOrientation="portrait">
+        </activity>
+        <!--<activity-->
+                <!--android:name=".Potensi.DetailPotensi"-->
+                <!--android:configChanges="orientation"-->
+                <!--android:label="@string/title_potensi"-->
+                <!--android:screenOrientation="portrait">-->
+        <!--</activity>-->
+        <activity
+                android:name=".Pengumuman.DetailPengumuman"
+                android:configChanges="orientation"
+                android:label="@string/title_post"
+                android:screenOrientation="portrait">
+        </activity>
+        <activity
+                android:name=".Berita.DetailBerita"
+                android:configChanges="orientation"
+                android:label="@string/title_post"
+                android:screenOrientation="portrait">
+        </activity>
+        <activity
+                android:name=".Splash"
+                android:configChanges="orientation"
+                android:noHistory="true"
+                android:screenOrientation="portrait"
+                android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity
+                android:name=".Fragment.Lainnya.Policy"
+                android:configChanges="orientation"
+                android:label="@string/title_policy"
+                android:screenOrientation="portrait">
+        </activity>
+        <activity
+                android:name=".Fragment.Lainnya.Data"
+                android:configChanges="orientation"
+                android:label="@string/title_data"
+                android:screenOrientation="portrait">
+        </activity>
+        <activity
+                android:name=".Fragment.Lainnya.Lembaga.Lembaga"
+                android:configChanges="orientation"
+                android:screenOrientation="portrait"
+                android:label="@string/title_lembaga">
+        </activity>
+        <activity
+                android:name=".Fragment.Lainnya.Profdes"
+                android:configChanges="orientation"
+                android:label="@string/title_profdes"
+                android:screenOrientation="portrait">
+        </activity>
+        <activity
+                android:name=".Fragment.Lainnya.Lainnya"
+                android:configChanges="orientation"
+                android:screenOrientation="portrait">
+        </activity>
+        <activity
+                android:name=".Galeri.GaleriAdapter"
+                android:configChanges="orientation"
+                android:screenOrientation="portrait">
+        </activity>
+        <activity
+                android:name=".Post"
+                android:configChanges="orientation"
+                android:label="@string/title_post"
+                android:screenOrientation="portrait">
+        </activity>
+        <activity
+                android:name=".Profil"
+                android:configChanges="orientation"
+                android:label="@string/title_profil"
+                android:screenOrientation="portrait">
+        </activity>
+        <activity
+                android:name=".Pengaduan"
+                android:configChanges="orientation"
+                android:screenOrientation="portrait"
+                android:label="@string/title_pengaduan">
+        </activity>
+        <activity
+                android:name=".Program.Program"
+                android:configChanges="orientation"
+                android:label="@string/title_program"
+                android:screenOrientation="portrait">
+        </activity>
+        <activity
+                android:name=".Potensi.Potensi"
+                android:configChanges="orientation"
+                android:label="@string/title_potensi"
+                android:screenOrientation="portrait">
+        </activity>
+        <activity
+                android:name=".Galeri.Galeri"
+                android:configChanges="orientation"
+                android:label="@string/title_galeri"
+                android:screenOrientation="portrait">
+        </activity>
+        <activity
+                android:name=".Pengumuman.Pengumuman"
+                android:configChanges="orientation"
+                android:label="@string/title_pengumuman"
+                android:screenOrientation="portrait">
+        </activity>
+        <activity
+                android:name=".Layanan.Layanan"
+                android:configChanges="orientation"
+                android:screenOrientation="portrait"
+                android:label="@string/title_layanan">
+        </activity>
+        <activity
+                android:name=".Fragment.Home"
+                android:configChanges="orientation"
+                android:screenOrientation="portrait">
+        </activity>
+        <activity
+                android:name=".Berita.Berita"
+                android:configChanges="orientation"
+                android:label="@string/title_berita"
+                android:screenOrientation="portrait">
+        </activity>
+        <activity android:name=".MainActivity"
+                  android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:name=".Potensi.DetailPotensi"/>
+        <meta-data
+                android:name="com.google.android.geo.API_KEY"
+                android:value="AIzaSyCPjede40a1fzgGs3yMB7mDX9Br3MSXISc"/>
+    </application>
+
+</manifest>

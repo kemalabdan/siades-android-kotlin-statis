@@ -1,0 +1,305 @@
+<resources>
+    <string name="app_name">SIADES</string>
+    <string name="title_home">SISTEM INFORMASI DESA</string>
+    <string name="title_post">POST</string>
+    <string name="title_layanan">LAYANAN DESA</string>
+    <string name="title_berita">BERITA</string>
+    <string name="title_pengumuman">PENGUMUMAN</string>
+    <string name="title_galeri">GALERI</string>
+    <string name="title_potensi">POTENSI DESA</string>
+    <string name="title_pengaduan">PENGADUAN</string>
+    <string name="title_profil">LOGIN</string>
+    <string name="title_program">PROGRAM DESA</string>
+    <string name="title_profdes">PROFIL DESA</string>
+    <string name="title_lembaga">LEMBAGA DESA</string>
+    <string name="title_data">DATA DESA</string>
+    <string name="title_policy">PRIVACY POLICY</string>
+    <string name="policy">\t\t\tThis page is used to inform visitors regarding our policies with the collection, use,
+        and disclosure of Personal Information if anyone decided to use our Service.
+        \n\n\t\t\tIf you choose to use our Service, then you agree to the collection and use of information in relation with this
+        policy. The Personal Information that we collect are used for providing and improving the Service. We will not
+        use or share your information with anyone except as described in this Privacy Policy.
+        \n\n\t\t\tThe terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible
+        at URL, unless otherwise defined in this Privacy Policy.
+        \n\nInformation Collection and Use
+        \n\n\t\t\tFor a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to your name, phone number, and postal address. The information that we collect will be used to contact or identify you.
+
+    </string>
+    <string name="post1">\t\t\tPendowoharjo--- Pengembangan Desa Ramah Anak sudah dimulai sejak tahun 2017 lalu. Program tersebut merupakan inisiasi dari PKK Desa Pendowoharjo. Dengan berbagai gerakan yang tersebar di masing-masing pedukuhan, PKK Desa Pendowoharjo difasilitasi oleh Pemerintah Desa untuk menggelar kegiatan edukatif berbasis masyarakat pada tahun 2018. Program Desa Ramah Anak ini ditujukan untuk 16 Pedukuhan Se-Desa Pendowoharjo. Dilatarbelakangi oleh derasnya arus globalisasi dan gadgetisasi yang tengah melanda anak usia dini membuat perhatian khusus Pemerintah Desa Pendowoharjo lewat kegiatan pemberdayaan masyarakat yang dinaungi PKK Desa Pendowoharjo.
+        \n\n\t\t\tMulai pertengahan bulan agustus kemarin telah dilakukan roadshow kegiatan ramah anak di tiap-tiap pedukuhan. Puncaknya adalah pentas seni yang digelar bersamaan dengan HUT Kemerdekaan RI ke-73 bertempat di Halaman Asrama UNU Eks Mess Persiba, Karanggede, Pendowoharjo, Sewon, Bantul (2/9/2018). Banyak kegiatan yang diisi oleh anak-anak dan usia remaja selanjutnya ditutup oleh pertunjukan Kethoprak. Mereka adalah generasi emas calon penerus bangsa Indonesia. Dengan menampilkan pertunjukan dolanan anak yang atraktif dan komunikatif, penonton yang hadir merasa terhibur.
+        \n\n\t\t\tMenurut Lurah Desa Pendowoharjo, H. Hilmi Hakimudin, S.Pd.I, kegiatan ini merupakan tindak lanjut dari pengembangan program desa ramah anak yang telah dilakukan sejak tahun 2017. Dulu awal sosialisasinya digelar di Balai Desa Pendowoharjo kemudian dilanjutkan Fokus Grup Disscusion (FGD) di masing-masing pedukuhan dengan mengemas model pembelajaran dolanan anak lalu dipraktekkan secara bersama-sama.
+        \n\n\t\t\t"Desa Ramah Anak ini merupakan salah satu sarana untuk menggali potensi dan kreativitas warga di tiap-tiap pedukuhan, semoga dengan adanya program desa ramah anak ini nantinya akan bermunculan sosok-sosok muda bertalenta dan kreatif dari Pendowoharjo yang bisa tampil di kancah nasional, " ujarnya dengan diakhiri teriakan pekik semangat kemerdekaan. MERDEKAAA !"
+    </string>
+    <string name="post2">\t\t\tPendowoharjo--- Peringatan Malam Satu Suro Tahun Baru 1440 Hijriyah disambut oleh Pemerintah Desa Pendowoharjo dengan melakukan ritual "Laku Tirakat Mubeng Deso" bersama seluruh pamong desa, staf, BPD, Lembaga Desa, Babhinkamtibmas dan Babinsa Desa Pendowoharjo pada Senin Malam (10/09/2018).
+        \n\n\t\t\tTradisi ini mulai dihidupkan kembali agar warisan budaya yang telah dilakukan oleh Lurah Desa sebelumnya dapat lestari. Ketua Panitia Penyelenggara, Zuhuda Muhammad menjelaskan rute perjalanan dimulai dari titik kumpul yang berada di kediamannya Banyon-Rogoitan-Pringgan-Ngentak-Karanggede-Dukuh-Bulak Gaten-Miri-Jembatan Miri-Ngaglik-TK Masyithoh Ngaglik-Jembatan Ngaglik-Bulak Monggang-Kaliputih-SMP N 3 Sewon-Bulog Niten-Blunyahan-Pendowo dan selesai di titik kumpul awal pemberangkatan.
+        \n\n\t\t\t"Ritual ini dimulai pukul 22.00 WIB karena sebelumnya dilakukan do'a bersama di masing-masing pedukuhan, imbuhnya."
+        \n\n\t\t\tKegiatan ritual ini sebagai bentuk perwujudan rasa syukur atas karunia nikmat Ilahi dan salah satu sarana untuk bermuhasabah diri. Semoga ke depan dapat meningkatkan kualitas hidup. Melewati segala rintangan, menemu-kenali masalah dan potensi yang ada di wilayah Desa Pendowoharjo dan mengayomi warga dengan sebaik-baiknya. Di samping itu, kegiatan semacam ini juga memunculkan semangat nilai juang dan kegotong-royongan. Dengan begitu, jalinan keakraban antar pamong dan warga masyarakat yang terlibat akan terjaga sepenuhnya.</string>
+    <string name="post3">\t\t\tPendowoharjo--- Siang tadi (31/08/2018) Pemerintah Desa Pendowoharjo melakukan kerjasama dengan BPJS Ketenagakerjaan Kabupaten Bantul. Hal tersebut dilakukan dengan penandatanganan MoU atau nota kesepahaman bersama bahwa Desa Pendowoharjo terpilih sebagai Desa Sadar Jaminan Sosial Ketenagakerjaan. Dalam kegiatan tersebut juga diundang Lurah Desa, Kasi, Kaur, Dukuh dan sebagian staf desa yang dilangsungkan di Rumah Makan Parangtritis.
+        \n\n\t\t\tMenurut penuturan Kepala Cabang BPJS Bantul yang akrab disapa Inul menyatakan bahwa tujuan dari penandatangan MoU Desa Sadar Jaminan Sosial Ketenagakerjaan ini adalah agar masyarakat desa mengenal lebih dekat program-program BPJS Ketenagakerjaan sehingga nantinya akan menimbulkan kesadaran terhadap pentingnya perlindungan jaminan sosial.
+        \n\n\t\t\tSetelah dilakukan penandatanganan MoU dilanjutkan dengan sosialisasi program yang ada di BPJS Ketenagakerjaan yang nantinya diharapkan agar peserta yang hadir dalam kegiatan tersebut dapat menjadi agen di wilayahnya masing-masing. Adapun Program Jaminan yang diikutkan antara lain Jaminan Kecelakaan Kerja, Jaminan Kematian, Jaminan Hari Tua, Jaminan Pensiun.
+        \n\n\t\t\tDi samping itu, Lurah Desa Pendowoharjo, H.Hilmi Hakimudin, S.Pd.I. juga menyambut positif adanya program Desa Sadar Jaminan Sosial Ketenagakerjaan ini. Beliau juga berharap semoga desa-desa yang lain khususnya di Kabupaten Bantul yang belum kerjasama dengan BPJS dapat segera mengikuti program ini sehingga nantinya juga akan tercapai masyarakat sejahtera.</string>
+    <string name="post4">\t\t\tPendowoharjo--- Pemerintah Desa Pendowoharjo didatangi oleh tim monitoring dan evaluasi dari Kabupaten Bantul untuk dilakukan penilaian terkait dengan tanggung jawab dan pelaksanaan tugas kearsipan yang ada di desa Kamis (23/08/2018) lalu. Kegiatan tersebut diterima oleh Lurah Desa Pendowoharjo, Carik, Kaur TU dan Umum beserta staf desa yang menangani hal ihwal yang berkenaan dengan fungsi kearsipan. Menurut Lembaga Administrasi Negara (LAN), Arsip adalah segala kertas, berkas, naskah, foto, film, mikro film, rekaman suara, gambar peta, bagan atau dokumen lain dalam segala macam bentuk dan sifatnya atau salinan serta dengan segala cara penciptaanya, dan yang dihasilkan atau diterima oleh suatu badan, sebagai bukti dari tujuan organisasi, fungsi-fungsi kebijakan. Kebijakan, keputusan-keputusan, prosedur-prosedur, pekerjaan-pekerjaan atau kegiatan-kegiatan lain pemerintah atau karena pentingnya informasi yang terkandung di dalamnya.
+        \n\n\t\t\tSecara umum arsip memiliki fungsi untuk penunjang aktivitas administrasi, alat pengambil keputusan, bukti pertanggungjawaban, sumber informasi, dan wahana komunikasi. Selain itu memiliki fungsi primer dan sekunder.
+        \n\n1. Fungsi primer adalah nilai guna arsip yang didasarkan pada kepentingan pencipta arsip tersebut sebagai penunjang saat tugas sedang berlangsung maupun setelah kegiatan selesai, baik itu oleh lembaga/instansi pemerintah, swasta, maupun perorangan. Nilai guna pada arsip primer meliputi administrasi, hukum, keuangan, ilmiah maupun teknologi.
+        \n\n2. Fungsi sekunder adalah nilai guna arsip yang didasarkan pada kegunaan bukan untuk pencipta arsip melainkan bagi kepentingan lembaga/instansi pemerintah, swasta, perorangan dan juga kepentingan umum lain sebagai bahan bukti dan bahan pertanggungjawaban. Nilai guna sekunder meliputi nilai guna pembuktian dan penginformasian.
+        \n\n\t\t\tDesa sebagai ujung tombak pemerintahan harus mampu menjadi pioner dalam penyediaan segala informasi yang akurat. Akuntabilitas dan tranparansi Pemerintah Desa wajib ditunjukkan lewat pembukuan dan kegiatan kearsipan. Desa merupakan jenjang pemerintahan yang paling dekat dengan masyarakat, oleh karena itu fungsi arsip bagi setiap desa sangatlah penting sebagai bekal membuat pertimbangan dan keputusan di desa.</string>
+    <string name="post5">\t\t\tPendowoharjo--- Sejak diluncurkannya program Bantul Bersih Sampah 2019, Pemerintah Desa Pendowoharjo gencar melakukan berbagai program desa. Program tersebut kerjasama dengan Lembaga Kemasyarakatan yang ada di Desa. Salah satunya lewat Program Kesejahteraan Keluarga atau yang kerap disebut dengan PKK. Di bawah kepemimpinan Ibu Faiqoh, sosialisasi program Perilaku Hidup Bersih dan Sehat (PHBS) dilakukan dengan door to door keliling 16 pedukuhan, Rabu (12/09/2018) pekan lalu.
+        \n\n\t\t\tPHBS adalah semua perilaku kesehatan yang dilakukan atas kesadaran pribadi sehingga anggota keluarga atau keluarga dapat menolong dirinya sendiri di bidang kesehatan dan berperan aktif dalam kegiatan-kegiatan kesehatan di masyarakat. PHBS di Rumah Tangga adalah upaya untuk memberdayakan anggota rumah tangga agar tahu, mau dan mampu melaksanakan perilaku hidup bersih dan sehat serta berperan aktif dalam gerakan kesehatan di masyarakat. PHBS di Rumah Tangga dilakukan untuk mencapai Rumah Tangga Sehat. Rumah Tangga Sehat adalah rumah tangga yang melakukan 10 PHBS di Rumah Tangga yaitu Persalinan ditolong oleh tenaga kesehatan, Memberi bayi ASI eksklusif, Menimbang bayi dan balita, Menggunakan air bersih, Mencuci tangan dengan air bersih dan sabun, Menggunakan jamban sehat, Memberantas jentik di rumah, Makan buah dan sayur setiap hari, Melakukan aktivitas fisik setiap hari dan Tidak merokok di dalam rumah. Selain itu, untuk mendukung germas tersebut, salah satu upaya yang dilakukan dengan membagikan plakat "Dilarang Membuang Sampah Sembarangan" sampai ke tingkat Dusun. Plakat tersebut juga terdapat himbauan beserta sanksi atau hukuman yang diberikan kepada masyarakat jika terbukti melanggarnya.
+        \n\n\t\t\tDengan adanya program tersebut, diharapkan akan ada gayung bersambut hingga ke tingkat wilayah terkecil yakni Rukun Tetangga dan masuk ke lingkungan keluarga. Jika semua masyarakat dapat saling bahu-membahu mensukseskan program tersebut dan masing-masing keluarga dapat mendidik anak-anaknya sejak usia dini niscaya lingkungan sekitar kita akan bersih dengan sendirinya dan bebas dari penyakit apapun.</string>
+    <string name="sejarah">1. Sejarah Desa Pendowoharjo
+        \n\n\t\t\tDesa Pendowoharjo lahir tepat pada tanggal 26 Desember 1946 (setelah digabung) yang asal mulanya berasal dari 5(lima) kalurahan lama antara lain:
+        \n\n1) Karanggede (dengan sebutan Kring) terdiri dari Pedukuhan  Dagen dan Pedukuhan  Cepit.
+        \n\n2) Ngrukem (kring Ngrukem) terdiri dari Pedukuhan Sawahan, Pedukuhan Krandohan, Pedukuhan Ngimbang  dan Pedukuhan Miri.
+        \n\n3) Bandung(Kring Bandung) terdiri dari Pedukuhan Bandung, Pedukuhan Ngaglik, Pedukuhan Monggang dan Pedukuhan Kaliputih.
+        \n\n4) Krantil (Kring Krantil) terdiri dari Pedukuhan Blunyahan , Pedukuhan Pucung dan Pedukuhan Diro.
+        \n\n5) Pendowo (Kring Pendowo) terdiri dari Pedukuhan Rogoitan, Pedukuhan Banyon dan Pedukuhan Pendowo.\n\n\n\n</string>
+    <string-array name="listpost">
+        <item>Desa Ramah Anak : Solusi Interaktif dan Edukatif Perkembangan Anak Masa Kini</item>
+        <item>Pemdes Pendowoharjo Gelar Ritual "Laku Tirakat Mubeng Deso"</item>
+        <item>Desa Pendowoharjo Terpilih Sebagai Desa Sadar Jaminan Sosial Ketenagakerjaan Tahun 2018</item>
+        <item>Penilaian Arsip Desa Se-Kabupaten Bantul Tahun 2018</item>
+        <item>Post PKK Desa Pendowoharjo Gencarkan PHBS dan Bagikan Plakat Dilarang Membuang Sampah</item>
+    </string-array>
+    <string-array name="listtglpost">
+        <item>17 September 2018</item>
+        <item>17 September 2018</item>
+        <item>20 September 2018</item>
+        <item>27 September 2018</item>
+        <item>02 Oktober 2018</item>
+    </string-array>
+    <string-array name="listpostpengumuman">
+        <item>Libur Cuti Bersama dan Hari Raya Idul Fitri Tahun 2018</item>
+        <item>Rakor Persiapan Evaluasi LPMD Berprestasi Tingkat Kabupaten Bantul Tahun 2019</item>
+    </string-array>
+    <string-array name="listtglpostpengumuman">
+        <item>07 Juni 2018</item>
+        <item>07 April 2019</item>
+    </string-array>
+    <string-array name="listdaerah">
+        <item>Monggang</item>
+        <item>Krandohan</item>
+        <item>Kaliputih</item>
+        <item>Diro</item>
+        <item>Dagen</item>
+        <item>Banyon</item>
+    </string-array>
+    <string-array name="isidetailpost">
+        <item>\t\t\tPendowoharjo--- Pengembangan Desa Ramah Anak sudah dimulai sejak tahun 2017 lalu. Program tersebut merupakan inisiasi dari PKK Desa Pendowoharjo. Dengan berbagai gerakan yang tersebar di masing-masing pedukuhan, PKK Desa Pendowoharjo difasilitasi oleh Pemerintah Desa untuk menggelar kegiatan edukatif berbasis masyarakat pada tahun 2018. Program Desa Ramah Anak ini ditujukan untuk 16 Pedukuhan Se-Desa Pendowoharjo. Dilatarbelakangi oleh derasnya arus globalisasi dan gadgetisasi yang tengah melanda anak usia dini membuat perhatian khusus Pemerintah Desa Pendowoharjo lewat kegiatan pemberdayaan masyarakat yang dinaungi PKK Desa Pendowoharjo.
+            \n\n\t\t\tMulai pertengahan bulan agustus kemarin telah dilakukan roadshow kegiatan ramah anak di tiap-tiap pedukuhan. Puncaknya adalah pentas seni yang digelar bersamaan dengan HUT Kemerdekaan RI ke-73 bertempat di Halaman Asrama UNU Eks Mess Persiba, Karanggede, Pendowoharjo, Sewon, Bantul (2/9/2018). Banyak kegiatan yang diisi oleh anak-anak dan usia remaja selanjutnya ditutup oleh pertunjukan Kethoprak. Mereka adalah generasi emas calon penerus bangsa Indonesia. Dengan menampilkan pertunjukan dolanan anak yang atraktif dan komunikatif, penonton yang hadir merasa terhibur.
+            \n\n\t\t\tMenurut Lurah Desa Pendowoharjo, H. Hilmi Hakimudin, S.Pd.I, kegiatan ini merupakan tindak lanjut dari pengembangan program desa ramah anak yang telah dilakukan sejak tahun 2017. Dulu awal sosialisasinya digelar di Balai Desa Pendowoharjo kemudian dilanjutkan Fokus Grup Disscusion (FGD) di masing-masing pedukuhan dengan mengemas model pembelajaran dolanan anak lalu dipraktekkan secara bersama-sama.
+            \n\n\t\t\t"Desa Ramah Anak ini merupakan salah satu sarana untuk menggali potensi dan kreativitas warga di tiap-tiap pedukuhan, semoga dengan adanya program desa ramah anak ini nantinya akan bermunculan sosok-sosok muda bertalenta dan kreatif dari Pendowoharjo yang bisa tampil di kancah nasional, " ujarnya dengan diakhiri teriakan pekik semangat kemerdekaan. MERDEKAAA !"
+        </item>
+        <item>\t\t\tPendowoharjo--- Peringatan Malam Satu Suro Tahun Baru 1440 Hijriyah disambut oleh Pemerintah Desa Pendowoharjo dengan melakukan ritual "Laku Tirakat Mubeng Deso" bersama seluruh pamong desa, staf, BPD, Lembaga Desa, Babhinkamtibmas dan Babinsa Desa Pendowoharjo pada Senin Malam (10/09/2018).
+            \n\n\t\t\tTradisi ini mulai dihidupkan kembali agar warisan budaya yang telah dilakukan oleh Lurah Desa sebelumnya dapat lestari. Ketua Panitia Penyelenggara, Zuhuda Muhammad menjelaskan rute perjalanan dimulai dari titik kumpul yang berada di kediamannya Banyon-Rogoitan-Pringgan-Ngentak-Karanggede-Dukuh-Bulak Gaten-Miri-Jembatan Miri-Ngaglik-TK Masyithoh Ngaglik-Jembatan Ngaglik-Bulak Monggang-Kaliputih-SMP N 3 Sewon-Bulog Niten-Blunyahan-Pendowo dan selesai di titik kumpul awal pemberangkatan.
+            \n\n\t\t\t"Ritual ini dimulai pukul 22.00 WIB karena sebelumnya dilakukan do'a bersama di masing-masing pedukuhan, imbuhnya."
+            \n\n\t\t\tKegiatan ritual ini sebagai bentuk perwujudan rasa syukur atas karunia nikmat Ilahi dan salah satu sarana untuk bermuhasabah diri. Semoga ke depan dapat meningkatkan kualitas hidup. Melewati segala rintangan, menemu-kenali masalah dan potensi yang ada di wilayah Desa Pendowoharjo dan mengayomi warga dengan sebaik-baiknya. Di samping itu, kegiatan semacam ini juga memunculkan semangat nilai juang dan kegotong-royongan. Dengan begitu, jalinan keakraban antar pamong dan warga masyarakat yang terlibat akan terjaga sepenuhnya.
+        </item>
+        <item>\t\t\tPendowoharjo--- Siang tadi (31/08/2018) Pemerintah Desa Pendowoharjo melakukan kerjasama dengan BPJS Ketenagakerjaan Kabupaten Bantul. Hal tersebut dilakukan dengan penandatanganan MoU atau nota kesepahaman bersama bahwa Desa Pendowoharjo terpilih sebagai Desa Sadar Jaminan Sosial Ketenagakerjaan. Dalam kegiatan tersebut juga diundang Lurah Desa, Kasi, Kaur, Dukuh dan sebagian staf desa yang dilangsungkan di Rumah Makan Parangtritis.
+            \n\n\t\t\tMenurut penuturan Kepala Cabang BPJS Bantul yang akrab disapa Inul menyatakan bahwa tujuan dari penandatangan MoU Desa Sadar Jaminan Sosial Ketenagakerjaan ini adalah agar masyarakat desa mengenal lebih dekat program-program BPJS Ketenagakerjaan sehingga nantinya akan menimbulkan kesadaran terhadap pentingnya perlindungan jaminan sosial.
+            \n\n\t\t\tSetelah dilakukan penandatanganan MoU dilanjutkan dengan sosialisasi program yang ada di BPJS Ketenagakerjaan yang nantinya diharapkan agar peserta yang hadir dalam kegiatan tersebut dapat menjadi agen di wilayahnya masing-masing. Adapun Program Jaminan yang diikutkan antara lain Jaminan Kecelakaan Kerja, Jaminan Kematian, Jaminan Hari Tua, Jaminan Pensiun.
+            \n\n\t\t\tDi samping itu, Lurah Desa Pendowoharjo, H.Hilmi Hakimudin, S.Pd.I. juga menyambut positif adanya program Desa Sadar Jaminan Sosial Ketenagakerjaan ini. Beliau juga berharap semoga desa-desa yang lain khususnya di Kabupaten Bantul yang belum kerjasama dengan BPJS dapat segera mengikuti program ini sehingga nantinya juga akan tercapai masyarakat sejahtera.</item>
+        <item>\t\t\tPendowoharjo--- Pemerintah Desa Pendowoharjo didatangi oleh tim monitoring dan evaluasi dari Kabupaten Bantul untuk dilakukan penilaian terkait dengan tanggung jawab dan pelaksanaan tugas kearsipan yang ada di desa Kamis (23/08/2018) lalu. Kegiatan tersebut diterima oleh Lurah Desa Pendowoharjo, Carik, Kaur TU dan Umum beserta staf desa yang menangani hal ihwal yang berkenaan dengan fungsi kearsipan. Menurut Lembaga Administrasi Negara (LAN), Arsip adalah segala kertas, berkas, naskah, foto, film, mikro film, rekaman suara, gambar peta, bagan atau dokumen lain dalam segala macam bentuk dan sifatnya atau salinan serta dengan segala cara penciptaanya, dan yang dihasilkan atau diterima oleh suatu badan, sebagai bukti dari tujuan organisasi, fungsi-fungsi kebijakan. Kebijakan, keputusan-keputusan, prosedur-prosedur, pekerjaan-pekerjaan atau kegiatan-kegiatan lain pemerintah atau karena pentingnya informasi yang terkandung di dalamnya.
+            \n\n\t\t\tSecara umum arsip memiliki fungsi untuk penunjang aktivitas administrasi, alat pengambil keputusan, bukti pertanggungjawaban, sumber informasi, dan wahana komunikasi. Selain itu memiliki fungsi primer dan sekunder.
+            \n\n1. Fungsi primer adalah nilai guna arsip yang didasarkan pada kepentingan pencipta arsip tersebut sebagai penunjang saat tugas sedang berlangsung maupun setelah kegiatan selesai, baik itu oleh lembaga/instansi pemerintah, swasta, maupun perorangan. Nilai guna pada arsip primer meliputi administrasi, hukum, keuangan, ilmiah maupun teknologi.
+            \n\n2. Fungsi sekunder adalah nilai guna arsip yang didasarkan pada kegunaan bukan untuk pencipta arsip melainkan bagi kepentingan lembaga/instansi pemerintah, swasta, perorangan dan juga kepentingan umum lain sebagai bahan bukti dan bahan pertanggungjawaban. Nilai guna sekunder meliputi nilai guna pembuktian dan penginformasian.
+            \n\n\t\t\tDesa sebagai ujung tombak pemerintahan harus mampu menjadi pioner dalam penyediaan segala informasi yang akurat. Akuntabilitas dan tranparansi Pemerintah Desa wajib ditunjukkan lewat pembukuan dan kegiatan kearsipan. Desa merupakan jenjang pemerintahan yang paling dekat dengan masyarakat, oleh karena itu fungsi arsip bagi setiap desa sangatlah penting sebagai bekal membuat pertimbangan dan keputusan di desa.</item>
+        <item>\t\t\tPendowoharjo--- Sejak diluncurkannya program Bantul Bersih Sampah 2019, Pemerintah Desa Pendowoharjo gencar melakukan berbagai program desa. Program tersebut kerjasama dengan Lembaga Kemasyarakatan yang ada di Desa. Salah satunya lewat Program Kesejahteraan Keluarga atau yang kerap disebut dengan PKK. Di bawah kepemimpinan Ibu Faiqoh, sosialisasi program Perilaku Hidup Bersih dan Sehat (PHBS) dilakukan dengan door to door keliling 16 pedukuhan, Rabu (12/09/2018) pekan lalu.
+            \n\n\t\t\tPHBS adalah semua perilaku kesehatan yang dilakukan atas kesadaran pribadi sehingga anggota keluarga atau keluarga dapat menolong dirinya sendiri di bidang kesehatan dan berperan aktif dalam kegiatan-kegiatan kesehatan di masyarakat. PHBS di Rumah Tangga adalah upaya untuk memberdayakan anggota rumah tangga agar tahu, mau dan mampu melaksanakan perilaku hidup bersih dan sehat serta berperan aktif dalam gerakan kesehatan di masyarakat. PHBS di Rumah Tangga dilakukan untuk mencapai Rumah Tangga Sehat. Rumah Tangga Sehat adalah rumah tangga yang melakukan 10 PHBS di Rumah Tangga yaitu Persalinan ditolong oleh tenaga kesehatan, Memberi bayi ASI eksklusif, Menimbang bayi dan balita, Menggunakan air bersih, Mencuci tangan dengan air bersih dan sabun, Menggunakan jamban sehat, Memberantas jentik di rumah, Makan buah dan sayur setiap hari, Melakukan aktivitas fisik setiap hari dan Tidak merokok di dalam rumah. Selain itu, untuk mendukung germas tersebut, salah satu upaya yang dilakukan dengan membagikan plakat "Dilarang Membuang Sampah Sembarangan" sampai ke tingkat Dusun. Plakat tersebut juga terdapat himbauan beserta sanksi atau hukuman yang diberikan kepada masyarakat jika terbukti melanggarnya.
+            \n\n\t\t\tDengan adanya program tersebut, diharapkan akan ada gayung bersambut hingga ke tingkat wilayah terkecil yakni Rukun Tetangga dan masuk ke lingkungan keluarga. Jika semua masyarakat dapat saling bahu-membahu mensukseskan program tersebut dan masing-masing keluarga dapat mendidik anak-anaknya sejak usia dini niscaya lingkungan sekitar kita akan bersih dengan sendirinya dan bebas dari penyakit apapun.</item>
+    </string-array>
+    <string-array name="isidetailpostpengumuman">
+        <item>\t\t\tPendowoharjo--- Berdasarkan Surat Edaran Bupati Bantul No.850/02242/ORG Tentang Pelaksanaan Hari Libur Nasional dan Cuti Bersama Tahun 2018, Maka kami sampaikan kepada segenap masyarakat Desa Pendowoharjo bahwa pelayanan Desa libur dari tanggal 11, 12, 13, 14, 18, 19, 20 Juni 2018 dikarenakan cuti bersama dan libur tanggal 15 dan 16 Juni 2018 karena Libur Hari Raya Idul Fitri. Pelayanan Desa kembali dibuka hari Kamis, 21 Juni 2018. Demikian informasi ini disampaikan, atas perhatian Bapak/Ibu/Sdr diucapkan terima kasih. </item>
+        <item>\t\t\tPendowoharjo--- Rasa syukur dipanjatkan atas hasil evaluasi tahap I Evaluasi Lembaga Pemberdayaan Masyarakat Desa (LPMD) Berprestasi Tingkat Kabupaten Bantul Tahun 2019 yang menyebutkan bahwa Desa Pendowoharjo masuk dalam 6 besar penilaian atas profil kegiatan LPMDnya. Selanjutnya, bersama 5 terbaik lainnya, akan dilakukan evaluasi tahap II berupa verifikasi lapangan yang akan dilaksanakan Selasa, 9 April 2019.
+            \n\n\t\t\tMenanggapi hal ini, Ketua LPMD Desa Pendowoharjo, Ngadiman, menyampaikan bahwa untuk menindaklanjuti hasil lomba maka LPMD akan berusaha sebaik mungkin untuk mendapatkan hasil terbaik.
+            \n\n\t\t\tDalam rapat koordinasi di Waroeng Omah Sawah Miri, Rabu (3/4/2019) dilakukan pembahasan mengenai persiapan verifikasi lapangan berupa paparan, administrasi kesekretariatan serta kunjungan lapangan di kelompok binaan LPMD. Direncanakan kunjungan nantinya dilakukan ke TK LKMD Kaliputih dan kelompok binaan kerajinan kipas yang ada di Banyon.
+            \n\n\t\t\tDengan persiapan ini, diharapkan Desa Pendowoharjo akan mendapatkan prestasi yang bagus dalam evaluasi atau lomba kali ini. Di samping itu, ke depannya, peran LPMD juga sangat diharapkan dalam mensukseskan berbagai program pembangunan yang telah tertuang dalam RPJMDes Pendowoharjo.</item>
+    </string-array>
+    <string-array name="isidetaildaerah">
+        <item>Monggang adalah</item>
+        <item>Krandohan adalah</item>
+        <item>Dusun Kaliputih adalah</item>
+        <item>Potensi Dusun Diro adalah</item>
+        <item>Dagen adalah</item>
+        <item>Pedukuhan Banyon adalah</item>
+    </string-array>
+    <string-array name="gambarpost">
+        <item>@drawable/post1</item>
+        <item>@drawable/post2</item>
+        <item>@drawable/post3</item>
+        <item>@drawable/post4</item>
+        <item>@drawable/post5</item>
+    </string-array>
+    <string-array name="gambarpostpengumuman">
+        <item>@drawable/post8</item>
+        <item>@drawable/post9</item>
+    </string-array>
+    <string-array name="gambardaerah">
+        <item>@drawable/monggang1</item>
+        <item>@drawable/krandohan1</item>
+        <item>@drawable/kaliputih1</item>
+        <item>@drawable/diro1</item>
+        <item>@drawable/dagen1</item>
+        <item>@drawable/banyon1</item>
+    </string-array>
+    <string-array name="gambarmonggang">
+        <item>@drawable/monggang1</item>
+        <item>@drawable/monggang2</item>
+        <item>@drawable/monggang3</item>
+    </string-array>
+    <string-array name="gambarkrandohan">
+        <item>@drawable/krandohan1</item>
+        <item>@drawable/krandohan2</item>
+        <item>@drawable/krandohan3</item>
+    </string-array>
+    <string-array name="gambarkaliputih">
+        <item>@drawable/kaliputih1</item>
+        <item>@drawable/kaliputih2</item>
+        <item>@drawable/kaliputih3</item>
+    </string-array>
+    <string-array name="gambardiro">
+        <item>@drawable/diro1</item>
+        <item>@drawable/diro2</item>
+        <item>@drawable/diro3</item>
+    </string-array>
+    <string-array name="gambardagen">
+        <item>@drawable/dagen1</item>
+        <item>@drawable/dagen2</item>
+        <item>@drawable/dagen3</item>
+    </string-array>
+    <string-array name="gambarbanyon">
+        <item>@drawable/banyon1</item>
+        <item>@drawable/banyon2</item>
+        <item>@drawable/banyon3</item>
+    </string-array>
+    <string-array name="listlayanan">
+        <item>Alur Pelayanan Desa</item>
+        <item>Pindah Penduduk</item>
+        <item>Kartu Keluarga (KK)</item>
+        <item>Kartu Tanda Penduduk (KTP)</item>
+        <item>Akta Kelahiran</item>
+        <item>Akta Kematian</item>
+        <item>Akta Kematian Simpatik</item>
+        <item>SKCK</item>
+        <item>Perijinan</item>
+        <item>Nikah</item>
+        <item>Pernyataan Belum Menikah</item>
+        <item>Surat Keterangan Miskin</item>
+        <item>Penghasilan</item>
+        <item>Talak / Gugat Cerai</item>
+        <item>PROPOSAL</item>
+        <item>Surat Keterangan Usaha (SKU)</item>
+        <item>HARGA TANAH</item>
+        <item>DOMISILI PERUSAHAAN</item>
+    </string-array>
+    <string-array name="listjenislay1">
+        <item>Alur Pelayanan Desa 1</item>
+        <item>Alur Pelayanan Desa 2</item>
+    </string-array>
+    <string-array name="listjenislay2">
+        <item>Pindah Keluar</item>
+        <item>Pindah Datang</item>
+    </string-array>
+    <string-array name="listjenislay3">
+        <item>KK Baru</item>
+        <item>KK Perubahan Data</item>
+        <item>KK Penambahan/Pengurangan Jiwa</item>
+        <item>KK Hilang</item>
+    </string-array>
+    <string-array name="listjenislay4">
+        <item>KTP Baru</item>
+        <item>KTP Hilang</item>
+    </string-array>
+    <string-array name="listjenislay5">
+        <item>Akta Kelahiran 1</item>
+        <item>Akta Kelahiran 2</item>
+    </string-array>
+    <string-array name="listjenislay6">
+        <item>Akta Kematian 1</item>
+        <item>Akta Kematian 2</item>
+    </string-array>
+    <string-array name="listjenislay7">
+        <item>Akta Kematian Simpatik 1</item>
+        <item>Akta Kematian Simpatik 2</item>
+    </string-array>
+    <string-array name="listjenislay8">
+        <item>SKCK 1</item>
+        <item>SKCK 2</item>
+    </string-array>
+    <string-array name="listjenislay9">
+        <item>Ijin Keramaian</item>
+        <item>Ijin Penelitian</item>
+        <item>Ijin Usaha Mikro dan Kecil (IUMK)</item>
+        <item>Ijin Mendirikan Bangunan (IMB)</item>
+    </string-array>
+    <string-array name="listjenislay10">
+        <item>Nikah Laki-laki</item>
+        <item>Nikah Perempuan</item>
+        <item>Nikah Non-muslim</item>
+    </string-array>
+    <string-array name="listjenislay11">
+        <item>Belum Menikah 1</item>
+        <item>Belum Menikah 2</item>
+    </string-array>
+    <string-array name="listjenislay12">
+        <item>Keterangan Miskin 1</item>
+        <item>Keterangan Miskin 2</item>
+    </string-array>
+    <string-array name="listjenislay13">
+        <item>Penghasilan 1</item>
+        <item>Penghasilan 2</item>
+    </string-array>
+    <string-array name="listjenislay14">
+        <item>Talak 1</item>
+        <item>Talak 2</item>
+    </string-array>
+    <string-array name="listjenislay15">
+        <item>Proposal 1</item>
+        <item>Proposal 2</item>
+    </string-array>
+    <string-array name="listjenislay16">
+        <item>Surat Keterangan Usaha 1</item>
+        <item>Surat Keterangan Usaha 2</item>
+    </string-array>
+    <string-array name="listjenislay17">
+        <item>Harga Tanah 1</item>
+        <item>Harga Tanah 2</item>
+    </string-array>
+    <string-array name="listjenislay18">
+        <item>Domisili 1</item>
+        <item>Domisili 2</item>
+    </string-array>
+    <string-array name="listlembaga">
+        <item>Karang Taruna</item>
+        <item>LPMD</item>
+        <item>PKK</item>
+        <item>BKM Bina Sejahtera</item>
+        <item>Taruna Tani Tunas Harapan</item>
+        <item>FPRB</item>
+        <item>BUM Desa</item>
+        <item>Pendowoharjo Table Tennis</item>
+    </string-array>
+    <string-array name="isidetaillembaga">
+        <item>\t\t\tKarang Taruna adalah organisasi kepemudaan di Indonesia. Karang Taruna merupakan wadah pengembangan generasi muda nonpartisan, yang tumbuh atas dasar kesadaran dan rasa tanggung jawab sosial dari, oleh dan untuk masyarakat khususnya generasi muda di wilayah Desa / Kelurahan atau komunitas sosial sederajat, yang terutama bergerak dibidang kesejahteraan sosial. Sebagai organisasi sosial kepemudaan Karang Taruna merupakan wadah pembinaan dan pengembangan serta pemberdayaan dalam upaya mengembangkan kegiatan ekonomis produktif dengan pendayagunaan semua potensi yang tersedia dilingkungan baik sumber daya manusia maupun sumber daya alam yang telah ada. Sebagai organisasi kepemudaan, Karang Taruna berpedoman pada Pedoman Dasar dan Pedoman Rumah Tangga dimana telah pula diatur tentang struktur penggurus dan masa jabatan dimasing-masing wilayah mulai dari Desa / Kelurahan sampai pada tingkat Nasional. Semua ini wujud dari pada regenerasi organisasi demi kelanjutan organisasi serta pembinaan anggota Karang Taruna baik dimasa sekarang maupun masa yang akan datang.
+            \n\n\t\t\tkarang Taruna beranggotakan pemuda dan pemudi (dalam AD/ART nya diatur keanggotaannya mulai dari pemuda/i berusia mulai dari 11 - 45 tahun) dan batasan sebagai Pengurus adalah berusia mulai 17 - 35 tahun.
+            \n\n\t\t\tKarang Taruna didirikan dengan tujuan memberikan pembinaan dan pemberdayaan kepada para remaja, misalnya dalam bidang keorganisasian, ekonomi, olahraga, ketrampilan, advokasi, keagamaan dan kesenian.</item>
+        <item>\t\t\tLembaga Pemberdayaan Masyarakat Desa atau Kelurahan (LPMD/LPMK)/Lembaga Ketahanan Masyarakat Desa atau Kelurahan (LKMDILKMK) atau sebutan nama lain mempunyai tugas menyusun rencana pembangunan secara partisipatif, menggerakkan swadaya gotong royong masyarakat, melaksanakan dan mengendalikan pembangunan.
+            \n\n\t\t\tLembaga Pemberdayaan Masyarakat Desa atau Kelurahan (LPMD/LPMK)/Lembaga Ketahanan Masyarakat Desa atau Kelurahan (LKMD/LKMK) atau sebutan nama lain dalam melaksanakan tugasnya mempunyai fungsi :
+            \n\n1. Penampungan dan penyaluran aspirasi masyarakat dalam pembangunan;
+            \n\n2. Penanaman dan pemupukan rasa persatuan dan kesatuan masyarakat dalam kerangka memperkokoh Negara Kesatuan Republik Indonesia;
+            \n\n3. Peningkatan kualitas dan percepatan pelayanan pemerintah kepada masyarakat;
+            \n\n4. Penyusunan rencana, pelaksanaan, pelestarian dan pengembangan hasil-hasil pembangunan secara partisipatif;
+            \n\n5. Penumbuhkembangan dan penggerak prakarsa, partisipasi, serta swadaya gotong royong masyarakat; dan
+            \n\n6. Penggali, pendayagunaan dan pengembangan potensi sumber daya alam serta keserasian lingkungan hidup.
+        </item>
+        <item>\t\t\tPemberdayaan Kesejahteraan Keluarga (PKK) sebagai gerakan pembangunan masyarakat bermula dari seminar Home Economic di Bogor tahun 1957. Sebagai tindak lanjut dari seminar tersebut, pada tahun 1961 panitia penyusunan tata susunan pelajaran pada Pendidikan Kesejahteraan Keluarga (PKK), Kementerian Pendidikan bersama kementerian-kementerian lainnya menyusun 10 segi kehidupan keluarga. Gerakan PKK dimasyarakatkan berawal dari kepedulian istri gubernur Jawa Tengah pada tahun 1967 (Ibu Isriati Moenadi) setelah melihat keadaan masyarakat yang menderita busung lapar.
+            \n\n\t\t\tUpaya untuk meningkatkan kesejahteraan keluarga melalui 10 segi pokok keluarga dengan membentuk Tim Penggerak PKK di semua tingkatan, yang keanggotaan timnya secara relawan dan terdiri dari tokoh/pemuka masyarakat, para isteri kepala dinas/jawatan dan isteri kepala daerah s.d tingkat desa dan kelurahan yang kegiatannya didukung dengan anggaran pendapatan dan belanja daerah.
+            \n\n\t\t\tPada tanggal 27 Desember 1972 mendagri mengeluarkan surat kawat no. Sus 3/6/12 kepada seluruh gubernur kdh tk. I Jawa Tengah dengan tembusan gubernur kdh seluruh indonesia, agar mengubah nama pendidikan kesejahteraan keluarga menjadi pembinaan kesejahteraan keluarga. Sejak itu gerakan PKKdilaksanakan di seluruh Indonesia dengan nama Pembinaan Kesejahteraan Keluarga (PKK), dan tanggal 27 Desember ditetapkan sebagai "hari kesatuan gerak PKK" yang diperingati pada setiap tahun.
+            \n\n\t\t\tDalam era reformasi dan ditetapkannya TAP MPR no. IV/MPR/1999 tentang GBHN 1999-2004, serta pelaksanaan otonomi daerah berdasarkan undang-undang no.22 tahun 1999 dan undang-undang no.25 tahun 1999, tetapi PKK pusat tanggap dengan mengadakan penyesuaian-penyesuaian yang disepakati dalam rakernaslub pkk tanggal 31 Oktober s.d 2 November 2000 di bandung dan hasilnya merupakan dasar dalam perumusan keputusan menteri dalam negeri dan otonomi daerah no. 53 tahun 2000, yang selanjutnya dijabarkan dalam pedoman umum gerakan Pemberdayaan dan Kesejahteraan Keluarga (PKK) ini.
+            \n\n\t\t\tHal yang mendasar antara lain adalah perubahan nama gerakan PKK dari gerakan Pembinaan Kesejahteraan Keluarga menjadi gerakan Pemberdayaan dan Kesejahteraan Keluarga.</item>
+        <item>BKM Bina Sejahtera adalah</item>
+        <item>Taruna Tani Tunas Harapan adalah</item>
+        <item>FPRB adalah</item>
+        <item>BUM Desa adalah</item>
+        <item>Pendowoharjo Table Tennis adalah</item>
+    </string-array>
+</resources>

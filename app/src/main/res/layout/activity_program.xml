@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_margin="15dp">
+        <TextView
+                android:text="Daftar Rencana Pembangunan APBD Des Pendowoharjo (DD) Kecamatan Sewon Kabupaten Bantul Tahun Anggaran 2018"
+                android:textAlignment="center"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" android:id="@+id/textView2"/>
+        <TableLayout
+                android:layout_marginTop="30dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginBottom="30dp">
+
+            <TableRow android:layout_width="match_parent" android:layout_height="match_parent"
+                        android:background="@color/silver">
+                <TextView
+                        android:text="No"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" android:id="@+id/textView5"
+                        android:textAlignment="center"
+                        android:padding="5dp"/>
+                <TextView
+                        android:text="Lokasi / Pedukuhan"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" android:id="@+id/textView6"
+                        android:textAlignment="center"
+                        android:padding="5dp"/>
+                <TextView
+                        android:text="Pekerjaan"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" android:id="@+id/textView7"
+                        android:textAlignment="center"
+                        android:padding="5dp"/>
+                <TextView
+                        android:text="Keterangan"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" android:id="@+id/textView8"
+                        android:textAlignment="center"
+                        android:padding="5dp"/>
+            </TableRow>
+            <TableRow android:layout_width="match_parent" android:layout_height="match_parent">
+                <TextView
+                        android:text="1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAlignment="center"
+                        android:padding="5dp"/>
+                <TextView
+                        android:text="Pedukuhan\nDagen"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAlignment="center"
+                        android:padding="5dp"/>
+                <TextView
+                        android:text=""
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAlignment="center"
+                        android:padding="5dp"/>
+                <TextView
+                        android:text=""
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAlignment="center"
+                        android:padding="5dp"/>
+            </TableRow>
+            <TableRow android:layout_width="match_parent" android:layout_height="match_parent">
+                <TextView
+                        android:text=""
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAlignment="center"
+                        android:padding="5dp"/>
+                <TextView
+                        android:text="Dagen RT 02"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAlignment="center"
+                        android:padding="5dp"/>
+                <TextView
+                        android:text="Rehabilitas goron - gorong"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAlignment="center"
+                        android:padding="5dp"/>
+                <TextView
+                        android:text=""
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAlignment="center"
+                        android:padding="5dp"/>
+            </TableRow>
+            <TableRow android:layout_width="match_parent" android:layout_height="match_parent"><TextView
+                    android:text=""
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAlignment="center"
+                    android:padding="5dp"/>
+                <TextView
+                        android:text="Dagen RT 02"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAlignment="center"
+                        android:padding="5dp"/>
+                <TextView
+                        android:text="Pasang Paving blok tebal 6 cm"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAlignment="center"
+                        android:padding="5dp"/>
+                <TextView
+                        android:text=""
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAlignment="center"
+                        android:padding="5dp"/>
+            </TableRow>
+
+            <TableRow android:layout_width="match_parent" android:layout_height="match_parent"><TextView
+                    android:text="2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAlignment="center"
+                    android:padding="5dp"/>
+                <TextView
+                        android:text="Pedukuhan\nCepit"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAlignment="center"
+                        android:padding="5dp"/>
+                <TextView
+                        android:text=""
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAlignment="center"
+                        android:padding="5dp"/>
+                <TextView
+                        android:text=""
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAlignment="center"
+                        android:padding="5dp"/>
+            </TableRow>
+
+            <TableRow android:layout_width="match_parent" android:layout_height="match_parent"><TextView
+                    android:text=""
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAlignment="center"
+                    android:padding="5dp"/>
+                <TextView
+                        android:text="Cepit RT 07"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAlignment="center"
+                        android:padding="5dp"/>
+                <TextView
+                        android:text="Bangket Saluran"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAlignment="center"
+                        android:padding="5dp"/>
+                <TextView
+                        android:text="Sudah terlaksana"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAlignment="center"
+                        android:padding="5dp"/>
+            </TableRow>
+
+            <TableRow android:layout_width="match_parent" android:layout_height="match_parent"><TextView
+                    android:text=""
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAlignment="center"
+                    android:padding="5dp"/>
+                <TextView
+                        android:text="Cepit RT 07"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAlignment="center"
+                        android:padding="5dp"/>
+                <TextView
+                        android:text="Cor Blok Jalanan"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAlignment="center"
+                        android:padding="5dp"/>
+                <TextView
+                        android:text="Sudah terlaksana"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAlignment="center"
+                        android:padding="5dp"/>
+            </TableRow>
+
+            <TableRow android:layout_width="match_parent" android:layout_height="match_parent"><TextView
+                    android:text="3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAlignment="center"
+                    android:padding="5dp"/>
+                <TextView
+                        android:text="Pedukuhan\nSawahan"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAlignment="center"
+                        android:padding="5dp"/>
+                <TextView
+                        android:text=""
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAlignment="center"
+                        android:padding="5dp"/>
+                <TextView
+                        android:text=""
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAlignment="center"
+                        android:padding="5dp"/>
+            </TableRow>
+
+            <TableRow android:layout_width="match_parent" android:layout_height="match_parent"><TextView
+                    android:text=""
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAlignment="center"
+                    android:padding="5dp"/>
+                <TextView
+                        android:text="Sawahan RT 13"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAlignment="center"
+                        android:padding="5dp"/>
+                <TextView
+                        android:text="Bangket Talud Jalan Desa"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAlignment="center"
+                        android:padding="5dp"/>
+                <TextView
+                        android:text=""
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAlignment="center"
+                        android:padding="5dp"/>
+            </TableRow>
+
+            <TableRow android:layout_width="match_parent" android:layout_height="match_parent"><TextView
+                    android:text=""
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAlignment="center"
+                    android:padding="5dp"/>
+                <TextView
+                        android:text="Sawahan RT 13\ndan 14"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAlignment="center"
+                        android:padding="5dp"/>
+                <TextView
+                        android:text="Cor Blok Jalanan"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAlignment="center"
+                        android:padding="5dp"/>
+                <TextView
+                        android:text=""
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAlignment="center"
+                        android:padding="5dp"/>
+            </TableRow>
+        </TableLayout>
+    </LinearLayout>
+
+</ScrollView>
