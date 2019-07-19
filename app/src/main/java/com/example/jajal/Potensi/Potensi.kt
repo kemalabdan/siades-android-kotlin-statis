@@ -111,16 +111,10 @@ class Potensi : AppCompatActivity(), OnMapReadyCallback, View.OnClickListener {
             intent.putExtra("JUDUL", judulList?.get(marker.tag.toString().toInt()))
             intent.putExtra("position", marker.tag.toString().toInt())
             startActivity(intent)
-//            toast(url[marker.tag.toString().toInt()])
-//            startActivity<DetailPotensi>(la)
             return@setOnMarkerClickListener true
         }
 
     }
-
-//    override fun onMarkerClick(p0: Marker?): Boolean {
-//
-//    }
 
 
     override fun onClick(v: View?) {
@@ -139,17 +133,6 @@ class Potensi : AppCompatActivity(), OnMapReadyCallback, View.OnClickListener {
             }
         }
     }
-
-
-//    val items: MutableList<Daerah> = mutableListOf()/*Gunanya untuk bisa mengubah ubah datanya*/
-//
-//    override fun onCreate(savedInstanceState: Bundle?) {
-//        super.onCreate(savedInstanceState)
-//        setContentView(R.layout.activity_potensi)
-//        supportActionBar?.setDisplayShowHomeEnabled(true)
-//        supportActionBar?.setDisplayHomeAsUpEnabled(true)
-//
-//
 
     override fun onSupportNavigateUp(): Boolean {
         onBackPressed()

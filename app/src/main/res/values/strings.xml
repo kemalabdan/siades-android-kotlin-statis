@@ -115,12 +115,12 @@
             \n\n\t\t\tDengan persiapan ini, diharapkan Desa Pendowoharjo akan mendapatkan prestasi yang bagus dalam evaluasi atau lomba kali ini. Di samping itu, ke depannya, peran LPMD juga sangat diharapkan dalam mensukseskan berbagai program pembangunan yang telah tertuang dalam RPJMDes Pendowoharjo.</item>
     </string-array>
     <string-array name="isidetaildaerah">
-        <item>Monggang adalah</item>
-        <item>Krandohan adalah</item>
-        <item>Dusun Kaliputih adalah</item>
-        <item>Potensi Dusun Diro adalah</item>
-        <item>Dagen adalah</item>
-        <item>Pedukuhan Banyon adalah</item>
+        <item>\t\t\tDusun Monggang merupakan salah satu dusun yang ada di Desa Pendowoharjo yang sudah lama warganya memiliki potensi utama sebagai pengrajin anyaman bambu khususnya penghasil besek, tampah dan kreneng. Dalam pelatihan tesebut, para lansia yang ikut berpartisipasi diberikan ketrampilan khusus dalam berinovasi produk sehingga hasil kerajinan yang akan dijual nantinya dapat bertambah nilainya.</item>
+        <item>\t\t\tKrandohan memiliki salah satu kesenian bernama "Gejog Lesung", yang merupakan pelopor kesenian Gejog pertama yang ada di Kabupaten Bantul.</item>
+        <item>\t\t\tKaliputih memiliki hamparan pertanian yang sangat luas, dan merupakan salah satu produsen padi terbesar di Yogyakarta.</item>
+        <item>\t\t\tDiro memiliki potensi dalam kerajinan Topeng Klasik, sanggar Warno Waskito dibawah asukan Bpk. Supana Wiguna. Sanggar ini melayani kegiatan pelatihan dan workshop seputar pembuatan Topeng.</item>
+        <item>\t\t\tDagen memiliki salah satu kesenian Wayang menggunakan Orang (Manusia) yang tidak seperti Wayang pada umumnya yang menggunakan benda.</item>
+        <item>\t\t\tPada daerah Banyon terdapat salah satu ojek wisata River Tubing yang menyusuri Sungai Bedog.</item>
     </string-array>
     <string-array name="gambarpost">
         <item>@drawable/post1</item>
