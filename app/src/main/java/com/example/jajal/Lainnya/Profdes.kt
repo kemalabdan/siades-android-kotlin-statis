@@ -1,4 +1,4 @@
-package com.example.jajal.Fragment.Lainnya
+package com.example.jajal.Lainnya
 
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity

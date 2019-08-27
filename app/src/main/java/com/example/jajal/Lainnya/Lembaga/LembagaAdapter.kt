@@ -1,4 +1,4 @@
-package com.example.jajal.Fragment.Lainnya.Lembaga
+package com.example.jajal.Lainnya.Lembaga
 
 import android.content.Context
 import android.support.v7.widget.RecyclerView

@@ -8,7 +8,8 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:orientation="vertical"
-            android:layout_margin="20dp">
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp">
         <TextView
                 android:text="JUMLAH PENDUDUK"
                 android:textSize="15dp"
@@ -73,8 +74,7 @@
         <TableLayout
                 android:layout_marginTop="30dp"
                 android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                android:layout_marginBottom="30dp">
+                android:layout_height="match_parent">
 
             <TableRow android:layout_width="match_parent" android:layout_height="match_parent">
                 <TextView

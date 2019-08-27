@@ -26,27 +26,27 @@ class Potensi : AppCompatActivity(), OnMapReadyCallback, View.OnClickListener {
         -7.8535067,
         -7.8756356,
         -7.8519174,
-        -7.8575882,
+        -7.8530676,
         -7.8709064,
-        -7.8530676
+        -7.8575882
     )
 
     private val longtitude = doubleArrayOf(
         110.3401805,
         110.3338674,
         110.3431619,
-        110.3364265,
+        110.3224006,
         110.3309546,
-        110.3224006
+        110.3364265
     )
 
     private val url = arrayOf(
         "https://goo.gl/maps/K4tSxzyVYX5MApYe7",
         "https://goo.gl/maps/mEmmwXaagvSeQTM29",
         "https://goo.gl/maps/5KAGtwLiwuQZmmFV7",
-        "https://goo.gl/maps/MtcGE3dvgmuWh15u7",
+        "https://goo.gl/maps/eEfUd4AKJE9EqGhq6",
         "https://goo.gl/maps/SY39Po6NzHp38dHy8",
-        "https://goo.gl/maps/eEfUd4AKJE9EqGhq6"
+        "https://goo.gl/maps/MtcGE3dvgmuWh15u7"
     )
 
     private var detailList: MutableList<String>? = null
@@ -80,21 +80,19 @@ class Potensi : AppCompatActivity(), OnMapReadyCallback, View.OnClickListener {
 
         val nama = resources.getStringArray(R.array.listdaerah)
         val detail = resources.getStringArray(R.array.isidetaildaerah)
-        val gambar = resources.obtainTypedArray(R.array.gambardaerah)
 
         map = p0!!
 
         for (i in nama.indices) {
-            val markerOptions = MarkerOptions().position(LatLng(latitude[i], longtitude[i])).title(nama[i])
+            val markerOptions = MarkerOptions().position(LatLng(latitude[i], longtitude[i]))
             val marker = map.addMarker(markerOptions)
             marker.showInfoWindow()
             marker.tag = i
-            map.moveCamera(CameraUpdateFactory.newLatLngZoom(LatLng(latitude[i], longtitude[i]), 10F))
+            map.moveCamera(CameraUpdateFactory.newLatLngZoom(LatLng(latitude[i], longtitude[i]), 13F))
             detailList?.add(detail[i])
             judulList?.add(nama[i])
             onclickMarker(detailList, map, judulList)
         }
-
     }
 
     private fun onclickMarker(

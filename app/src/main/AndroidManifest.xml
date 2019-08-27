@@ -12,7 +12,7 @@
             android:roundIcon="@mipmap/ic_launcher_round"
             android:supportsRtl="true"
             android:theme="@style/AppTheme">
-        <activity android:name=".Fragment.Lainnya.Lembaga.DetailLembaga"
+        <activity android:name="com.example.jajal.Lainnya.Lembaga.DetailLembaga"
                   android:configChanges="orientation"
                   android:label="@string/title_lembaga"
                   android:screenOrientation="portrait">
@@ -53,31 +53,31 @@
             </intent-filter>
         </activity>
         <activity
-                android:name=".Fragment.Lainnya.Policy"
+                android:name="com.example.jajal.Lainnya.Policy"
                 android:configChanges="orientation"
                 android:label="@string/title_policy"
                 android:screenOrientation="portrait">
         </activity>
         <activity
-                android:name=".Fragment.Lainnya.Data"
+                android:name="com.example.jajal.Lainnya.Data"
                 android:configChanges="orientation"
                 android:label="@string/title_data"
                 android:screenOrientation="portrait">
         </activity>
         <activity
-                android:name=".Fragment.Lainnya.Lembaga.Lembaga"
+                android:name="com.example.jajal.Lainnya.Lembaga.Lembaga"
                 android:configChanges="orientation"
                 android:screenOrientation="portrait"
                 android:label="@string/title_lembaga">
         </activity>
         <activity
-                android:name=".Fragment.Lainnya.Profdes"
+                android:name="com.example.jajal.Lainnya.Profdes"
                 android:configChanges="orientation"
                 android:label="@string/title_profdes"
                 android:screenOrientation="portrait">
         </activity>
         <activity
-                android:name=".Fragment.Lainnya.Lainnya"
+                android:name=".Fragment.Lainnya"
                 android:configChanges="orientation"
                 android:screenOrientation="portrait">
         </activity>
@@ -93,16 +93,14 @@
                 android:screenOrientation="portrait">
         </activity>
         <activity
-                android:name=".Profil"
+                android:name=".Fragment.Profil"
                 android:configChanges="orientation"
-                android:label="@string/title_profil"
                 android:screenOrientation="portrait">
         </activity>
         <activity
-                android:name=".Pengaduan"
+                android:name=".Fragment.Pengaduan"
                 android:configChanges="orientation"
-                android:screenOrientation="portrait"
-                android:label="@string/title_pengaduan">
+                android:screenOrientation="portrait">
         </activity>
         <activity
                 android:name=".Program.Program"
@@ -153,7 +151,10 @@
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
-        <activity android:name=".Potensi.DetailPotensi"/>
+        <activity android:name=".Potensi.DetailPotensi"
+                  android:configChanges="orientation"
+                  android:label="@string/title_potensi"
+                  android:screenOrientation="portrait"/>
         <meta-data
                 android:name="com.google.android.geo.API_KEY"
                 android:value="AIzaSyCPjede40a1fzgGs3yMB7mDX9Br3MSXISc"/>

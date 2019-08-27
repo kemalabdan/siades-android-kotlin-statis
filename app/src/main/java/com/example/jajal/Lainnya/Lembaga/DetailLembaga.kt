@@ -1,10 +1,8 @@
-package com.example.jajal.Fragment.Lainnya.Lembaga
+package com.example.jajal.Lainnya.Lembaga
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
-import com.bumptech.glide.Glide
 import com.example.jajal.R
-import kotlinx.android.synthetic.main.activity_detail_berita.*
 import kotlinx.android.synthetic.main.activity_detail_lembaga.*
 
 class DetailLembaga : AppCompatActivity() {

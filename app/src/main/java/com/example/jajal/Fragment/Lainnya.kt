@@ -1,4 +1,4 @@
-package com.example.jajal.Fragment.Lainnya
+package com.example.jajal.Fragment
 
 import android.content.Intent
 import android.os.Bundle
@@ -6,11 +6,12 @@ import android.support.v4.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import android.widget.ImageView
-import com.example.jajal.Fragment.Lainnya.Lembaga.Lembaga
+import com.example.jajal.Lainnya.Data
+import com.example.jajal.Lainnya.Lembaga.Lembaga
+import com.example.jajal.Lainnya.Policy
+import com.example.jajal.Lainnya.Profdes
 import com.example.jajal.R
 import kotlinx.android.synthetic.main.activity_lainnya.*
-import kotlinx.android.synthetic.main.activity_main.*
 
 class Lainnya : Fragment() {
 

@@ -79,9 +79,9 @@
         <item>Monggang</item>
         <item>Krandohan</item>
         <item>Kaliputih</item>
-        <item>Diro</item>
-        <item>Dagen</item>
         <item>Banyon</item>
+        <item>Dagen</item>
+        <item>Diro</item>
     </string-array>
     <string-array name="isidetailpost">
         <item>\t\t\tPendowoharjo--- Pengembangan Desa Ramah Anak sudah dimulai sejak tahun 2017 lalu. Program tersebut merupakan inisiasi dari PKK Desa Pendowoharjo. Dengan berbagai gerakan yang tersebar di masing-masing pedukuhan, PKK Desa Pendowoharjo difasilitasi oleh Pemerintah Desa untuk menggelar kegiatan edukatif berbasis masyarakat pada tahun 2018. Program Desa Ramah Anak ini ditujukan untuk 16 Pedukuhan Se-Desa Pendowoharjo. Dilatarbelakangi oleh derasnya arus globalisasi dan gadgetisasi yang tengah melanda anak usia dini membuat perhatian khusus Pemerintah Desa Pendowoharjo lewat kegiatan pemberdayaan masyarakat yang dinaungi PKK Desa Pendowoharjo.
@@ -118,9 +118,9 @@
         <item>\t\t\tDusun Monggang merupakan salah satu dusun yang ada di Desa Pendowoharjo yang sudah lama warganya memiliki potensi utama sebagai pengrajin anyaman bambu khususnya penghasil besek, tampah dan kreneng. Dalam pelatihan tesebut, para lansia yang ikut berpartisipasi diberikan ketrampilan khusus dalam berinovasi produk sehingga hasil kerajinan yang akan dijual nantinya dapat bertambah nilainya.</item>
         <item>\t\t\tKrandohan memiliki salah satu kesenian bernama "Gejog Lesung", yang merupakan pelopor kesenian Gejog pertama yang ada di Kabupaten Bantul.</item>
         <item>\t\t\tKaliputih memiliki hamparan pertanian yang sangat luas, dan merupakan salah satu produsen padi terbesar di Yogyakarta.</item>
-        <item>\t\t\tDiro memiliki potensi dalam kerajinan Topeng Klasik, sanggar Warno Waskito dibawah asukan Bpk. Supana Wiguna. Sanggar ini melayani kegiatan pelatihan dan workshop seputar pembuatan Topeng.</item>
-        <item>\t\t\tDagen memiliki salah satu kesenian Wayang menggunakan Orang (Manusia) yang tidak seperti Wayang pada umumnya yang menggunakan benda.</item>
         <item>\t\t\tPada daerah Banyon terdapat salah satu ojek wisata River Tubing yang menyusuri Sungai Bedog.</item>
+        <item>\t\t\tDagen memiliki salah satu kesenian Wayang menggunakan Orang (Manusia) yang tidak seperti Wayang pada umumnya yang menggunakan benda.</item>
+        <item>\t\t\tDiro memiliki potensi dalam kerajinan Topeng Klasik, sanggar Warno Waskito dibawah asukan Bpk. Supana Wiguna. Sanggar ini melayani kegiatan pelatihan dan workshop seputar pembuatan Topeng.</item>
     </string-array>
     <string-array name="gambarpost">
         <item>@drawable/post1</item>
@@ -137,9 +137,9 @@
         <item>@drawable/monggang1</item>
         <item>@drawable/krandohan1</item>
         <item>@drawable/kaliputih1</item>
-        <item>@drawable/diro1</item>
-        <item>@drawable/dagen1</item>
         <item>@drawable/banyon1</item>
+        <item>@drawable/dagen1</item>
+        <item>@drawable/diro1</item>
     </string-array>
     <string-array name="gambarmonggang">
         <item>@drawable/monggang1</item>

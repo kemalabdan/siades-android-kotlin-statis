@@ -7,7 +7,9 @@ import android.support.v4.app.FragmentTransaction
 import android.support.v7.app.AlertDialog
 import android.support.v7.app.AppCompatActivity
 import com.example.jajal.Fragment.Home
-import com.example.jajal.Fragment.Lainnya.Lainnya
+import com.example.jajal.Fragment.Lainnya
+import com.example.jajal.Fragment.Pengaduan
+import com.example.jajal.Fragment.Profil
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
@@ -32,13 +34,15 @@ class MainActivity : AppCompatActivity() {
                 return@setOnNavigationItemSelectedListener true
             }
             R.id.navigation_pengaduan -> {
-                val intent = Intent(this, Pengaduan::class.java)
-                startActivity(intent)
+                fm = supportFragmentManager
+                ft = fm.beginTransaction()
+                ft.replace(R.id.container, Pengaduan()).commit()
                 return@setOnNavigationItemSelectedListener true
             }
             R.id.navigation_profil -> {
-                val intent = Intent(this, Profil::class.java)
-                startActivity(intent)
+                fm = supportFragmentManager
+                ft = fm.beginTransaction()
+                ft.replace(R.id.container, Profil()).commit()
                 return@setOnNavigationItemSelectedListener true
             }
             R.id.navigation_lainnya -> {

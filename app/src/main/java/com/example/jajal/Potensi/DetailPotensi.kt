@@ -30,8 +30,6 @@ class DetailPotensi : AppCompatActivity() {
 
         val namaDaerah = intent.getStringExtra("JUDUL")
         val isiDaerah = intent.getStringExtra("DETAIL")
-        val latitudee = intent.getDoubleExtra("LAT",0.0)
-        val longtitudee = intent.getDoubleExtra("LON",0.0)
         val urll = intent.getStringExtra("URL")
         val position = intent.getIntExtra("position", 0)
 
@@ -47,13 +45,13 @@ class DetailPotensi : AppCompatActivity() {
                 gambar = resources.obtainTypedArray(R.array.gambarkaliputih)
             }
             3 -> {
-                gambar = resources.obtainTypedArray(R.array.gambardiro)
+                gambar = resources.obtainTypedArray(R.array.gambarbanyon)
             }
             4 -> {
                 gambar = resources.obtainTypedArray(R.array.gambardagen)
             }
             5 -> {
-                gambar = resources.obtainTypedArray(R.array.gambarbanyon)
+                gambar = resources.obtainTypedArray(R.array.gambardiro)
             }
         }
 
