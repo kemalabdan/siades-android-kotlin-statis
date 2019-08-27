@@ -88,7 +88,7 @@
                         android:textAlignment="center"
                         android:padding="5dp"/>
                 <TextView
-                        android:text="Rehabilitas goron - gorong"
+                        android:text="Rehabilitas gorong - gorong"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:textAlignment="center"
